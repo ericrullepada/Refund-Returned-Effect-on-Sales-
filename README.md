@@ -6,7 +6,7 @@
 This project provides a comprehensive evaluation of product refunds and their financial impact for the years 2024 and 2025. Through SQL-based data cleaning and a Power BI–powered dashboard, the analysis highlights key refund drivers, category performance, and profit implications.
 The objective is to provide clear, actionable insights that support operational improvements, customer experience enhancement, and data-driven decision-making.
 
-![](https://github.com/ericrullepada/Funnel-Conversion-and-Segmentation-Insights-Analysis-for-Men-s-Fashion-E-Commerce-Website-/blob/main/dashboard.png)
+![](https://github.com/ericrullepada/Refund-Returned-Effect-on-Sales-Analysis/blob/main/Screenshot%202025-12-06%20223607.png))
 
 
 ## **Tools & Technologies Used**
